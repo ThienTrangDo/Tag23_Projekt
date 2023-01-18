@@ -12,9 +12,10 @@ fun main() {
             println("Zu groß!")
         } else if (computerGuess > meineZahl){
             println("Zu klein!")
+        } else if (computerGuess == meineZahl){
+            println("Du hast gewonnen. Die Zahl vom Computer war die $computerGuess")
         }
     } while (computerGuess != meineZahl)
-    println("Du hast gewonnen. Die Zahl vom Computer war die $computerGuess")
 
 }
 

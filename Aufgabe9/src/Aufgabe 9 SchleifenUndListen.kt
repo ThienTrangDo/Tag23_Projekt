@@ -10,9 +10,8 @@ fun main() {
         println(i)
 
     // Aufgabe 9b: Gib den Inhalt der Liste noch einmal rückwärts in der Konsole aus. Diesmal allerdings nur jedes zweite Wort.
-    // noch nicht richtig gelöst ( Heute ein schöner - ist sehr Tag)
 
-    for (i in satz.size-1 downTo 0 step 2)
+    for (i in satz.size-2 downTo 0 step 2)
         println(satz[i])
 
     // Aufgabe 9c: Gib den Inhalt der Liste noch einmal rückwärts in der Konsole aus. Allerdings nur die ersten 3 Wörter. 👍🏻

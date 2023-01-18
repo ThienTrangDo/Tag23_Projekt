@@ -33,4 +33,10 @@ fun main() {
     }
     println(shoppingList)
 
+    val listSize = shoppingList.size
+    for (i in 0 until shoppingList.size){
+        var lebensmittel = shoppingList[i]
+        println("${shoppingList.indexOf(lebensmittel) +1}. $lebensmittel")
+    }
+
 }
