@@ -22,7 +22,7 @@ fun main() {
     }
     println(shoppingList)*/
 
-    // Dritter Versuch
+    // Dritter Versuch - immer noch nicht richtig.
 
     for (essen in 0 until shoppingList.size) {
         var name = shoppingList[essen]

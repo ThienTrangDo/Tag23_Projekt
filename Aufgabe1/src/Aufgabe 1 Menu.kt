@@ -11,4 +11,6 @@ fun main () {
      for (essen in menu)
          println(essen)
 
+    for (i in menu.indices)
+        println(menu[i])
 }

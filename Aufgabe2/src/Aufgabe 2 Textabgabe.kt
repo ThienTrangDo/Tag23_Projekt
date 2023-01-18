@@ -2,7 +2,7 @@
 Schreibe hier deine Antwort hin.
 
 In der Aufgabendatei befindet sich eine Liste mit den Namen books, die 4 Bücher enthält.
-In der For-In-Schelife ist ein Iterator mit dem Datentyp Int, der in einer Range von 0 bis 3 (index) schaut.
+In der For-Schelife ist ein Iterator mit dem Datentyp Int, der in einer Range von 0 bis 3 (index) schaut.
 Dann kommt eine Variable welches das Buch abspeichert
 println Das buch an der stelle 0 bis 3 ist das Buch so und so
 

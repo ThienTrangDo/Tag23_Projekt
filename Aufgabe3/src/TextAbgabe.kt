@@ -2,7 +2,7 @@
 Schreibe hier deine Antwort hin.
 
 Es gibt eine Liste namens weekDays und sie beinhaltet die Tage Montag bis Sonntag.
-Dann kommt eine For-In-Schleife welches den Iterator day hat, dieser Iterator schaut sich alle Wörter in der Liste weekDays an.
+Dann kommt eine For-Schleife welches den Iterator day hat, dieser Iterator schaut sich alle Wörter in der Liste weekDays an.
 Wenn der Iterator day Samstag findet ODER den Sonntag dann println am day hab ich frei.
 Andernfalls wenn der Iterator nicht Sáuf Samstag oder Sonntag trifft println am day muss ich arbeiten
 

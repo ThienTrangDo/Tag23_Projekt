@@ -2,7 +2,7 @@
 Schreibe hier deine Antwort hin.
 
 Es gibt eine Liste names guests, welches Strings beinhalten (6 Namen).
-Die For-In-Schleife hat ein Iterator namens 'i' und den Datentyp Int und eine Range 0 bis 5 (guest.size ist 6 minus1 = 5).
+Die For-Schleife hat ein Iterator namens 'i' und den Datentyp Int und eine Range 0 bis 5 (guest.size ist 6 minus1 = 5).
 Wenn der Iterator auf Lukas trifft wird 'Hey Lukas kommt!' geprinted.
 Wenn der Iterator auf Keanu trifft wird 'Oh cool, Keanu ist auch dabei!' geprinted.
 Wenn der Iterator auf Michael trifft wird 'Wie es Michael wohl geht?' geprinted.

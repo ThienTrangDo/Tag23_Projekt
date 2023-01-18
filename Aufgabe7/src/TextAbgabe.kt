@@ -2,7 +2,7 @@
 Schreibe hier deine Antwort hin.
 
 Es gibt eine Liste namens 'speedLimits' und es hat 5 Integer-Zahlen.
-Die For-In-Schleife hat ein Iterator namens 'i' vom Datentyp Inter, und geht eine Range durch von 0 bis 4. (speedLimits.size = 5 - 1 = 4)
+Die For-Schleife hat ein Iterator namens 'i' vom Datentyp Inter, und geht eine Range durch von 0 bis 4. (speedLimits.size = 5 - 1 = 4)
 Wenn der 'i' die 30 trifft dann kommt prinln: auf der 0. Strasse kann man 30 km/h fahren.
 Wenn der 'i' die 80 trifft dann kommt prinln: auf der 2. Strasse kann man 80 km/h fahren.
 Wenn der 'i' die 120 trifft dann kommt prinln: auf der 4. Strasse kann man 120 km/h fahren.
